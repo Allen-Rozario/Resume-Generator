@@ -1,0 +1,32 @@
+.frm {
+  width: 50%;
+  margin: auto;
+}
+.title {
+  margin-left: 25%;
+  color: white;
+  text-shadow: 0 0 2px;
+}
+.bta {
+  margin-left: 40%;
+}
+.form {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 17, 121, 1) 23%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  color: white;
+  height: 190vh;
+}
+.page-title {
+  margin-left: 40%;
+  text-shadow: 0 2px 2px;
+  color: white;
+}
+.nav-pos {
+  margin-left: 14vw;
+  margin-top: 10vh;
+}
